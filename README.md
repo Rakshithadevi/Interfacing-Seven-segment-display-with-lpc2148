@@ -91,13 +91,17 @@ delay(200);
 
 
 ##  Output screen shots :
-## before stimulation:
+## Before stimulation:
 ![image](https://user-images.githubusercontent.com/94165326/201051796-206a7f52-42cb-4bc7-a51b-8a61e9d5de15.png)
 
 
-## after Stimulation:
+## After Stimulation:
+![image](https://user-images.githubusercontent.com/94165326/201051987-398dd99c-24b3-415f-bfe6-ef5c226da944.png)
 
-## circuit diagram:
+
+## Circuit diagram:
+![image](https://user-images.githubusercontent.com/94165326/201052067-c864b15e-8128-494f-a339-d1a5ec83e9bd.png)
+
 
 
 
